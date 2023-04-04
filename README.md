@@ -6,4 +6,4 @@ I am a postdoc in [Epidemiology and Population Health](https://med.stanford.edu/
 - [ORCID](https://orcid.org/0000-0001-9040-2991)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=RO5T7CQAAAAJ)
 
-# [My CV](https://github.com/lamhine/lamhine.github.io/blob/master/assets/docs/Lam-Hine%2C%20Tracy%20CV%202023-04.pdf)
+# [My CV](https://github.com/lamhine/lamhine.github.io/blob/2684471d5d3309d34d364d45c6c44e61c96b2fd5/assets/docs/Lam-Hine%2C%20Tracy%20CV%202023-04.pdf)
