@@ -9,5 +9,4 @@ I have published first-author papers in [JAMA Network Open](https://doi.org/10.1
 - [Stanford Profile](https://profiles.stanford.edu/lamhine)
 - [ORCID](https://orcid.org/0000-0001-9040-2991)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=RO5T7CQAAAAJ)
-
-## [My CV](https://lamhine.github.io/assets/docs/Lam-Hine%2C%20Tracy%20CV.pdf)
+- [My CV](https://lamhine.github.io/assets/docs/Lam-Hine%2C%20Tracy%20CV.pdf)
